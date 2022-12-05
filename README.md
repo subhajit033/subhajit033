@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhajit033
 - 👀 I’m interested in exploring the tech world
-- 🌱 I’m currently learning B.tech in CSE
+- 🌱 I’m currently pursuing B.tech in CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on email - japamali56@gmail.com
 
