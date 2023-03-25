@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @subhajit033
 - 👀 I’m interested in exploring the tech world
 - 🌱 I’m currently pursuing B.tech in CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on email - japamali56@gmail.com
+
+- 📫 How to reach me on email - kundusubhajit73@gmail.com
 
 <!---
 subhajit033/subhajit033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
