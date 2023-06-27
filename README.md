@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit033&show_icons=true&locale=en&layout=compact" alt="subhajit033" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit033&theme=radical&show_icons=true" alt="subhajit033" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit033&" alt="current-streak" /></p>
