@@ -1,13 +1,23 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
-<h1 align="center">Hi 👋, I'm Subhajit Kundu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="center">Hii , I am Subhajit Kundu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;at+Netaji+Subhash+Engineering+College;aspiring+Full+Stack+Developer;Always+keen+to+learn+new+things"></a>
+</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajit033&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit033" /> </p>
 
-<p align="left"> <a href="https://twitter.com/subhajitkundu23" target="blank"><img src="https://img.shields.io/twitter/follow/subhajitkundu23?logo=twitter&style=for-the-badge" alt="subhajitkundu23" /></a> </p>
 
-- 🌱 I’m currently learning **React**
 
+- :school: I am a `2nd Year Student` at [Netaji Subhash Engineering College].
+  
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+  
+- :nerd_face: Always `keen to learn and develop new things`.
+  
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, JAVA, C, PYTHON**
 
 - 📫 How to reach me **kundusubhajit73@gmail.com**
@@ -24,4 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit033&show_icons=true&locale=en&layout=compact" alt="subhajit033" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit033&theme=radical&show_icons=true" alt="subhajit033" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit033&" alt="current-streak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit033&" alt="current-streak" /></p>
