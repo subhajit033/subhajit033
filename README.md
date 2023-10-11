@@ -1,6 +1,6 @@
 
 <a href="https://subhajitkundu.netlify.app/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1 align="center">Hii , I am Subhajit Kundu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hii , I am Subhajit Kundu 👋🏼 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://bit.ly/subhajit-kundu"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;at+Netaji+Subhash+Engineering+College;aspiring+Full+Stack+Developer;Always+keen+to+learn+new+things"></a>
 </p>
