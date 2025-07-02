@@ -20,7 +20,7 @@
   
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, JAVA, C++, NODE, EXPRESS**
 
-- 📫 How to reach me **kundusubhajit73@gmail.com**
+- 📫 How to reach me **hello@subhajit.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
