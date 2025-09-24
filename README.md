@@ -12,13 +12,13 @@
 
 
 
-- :school: I am a `3rd Year Student` at [Netaji Subhash Engineering College].
+- :school: I am a `final Year Student` at [Netaji Subhash Engineering College].
   
-- :student: I’m currently learning `Backend Engineering` and `Software Engineering`.
+- :student: I’m currently learning `Software Engineering`.
   
 - :nerd_face: Always `keen to learn and develop new things`.
   
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, JAVA, C++, NODE, EXPRESS**
+
 
 - 📫 How to reach me **hello@subhajit.me**
 
